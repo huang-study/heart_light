@@ -1,0 +1,3 @@
+".\Objects\main.obj" 
+TO ".\Objects\HearLight" 
+PRINT(".\Listings\HearLight.m51") RAMSIZE(256) 
